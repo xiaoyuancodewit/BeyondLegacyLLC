@@ -30,3 +30,7 @@
   border-radius: 5%;
   height: 200px;
 }
+
+.custom-bg {
+  background-color: rgb(3, 190, 252); /* You can change this color to your desired light blue shade */
+}
